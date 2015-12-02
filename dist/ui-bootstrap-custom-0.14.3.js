@@ -2,7 +2,7 @@
  * angular-ui-bootstrap
  * http://angular-ui.github.io/bootstrap/
 
- * Version: 0.14.3 - 2015-11-30
+ * Version: 0.14.3 - 2015-12-02
  * License: MIT
  */
 angular.module("ui.bootstrap", ["ui.bootstrap.timepicker","ui.bootstrap.position","ui.bootstrap.typeahead"]);
