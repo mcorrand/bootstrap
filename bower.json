@@ -1,0 +1,22 @@
+{
+  "name": "angular-bootstrap",
+  "description": "A custom build of angular-bootstrap, with only timepicker and typeahead",
+  "main": "dist/ui-bootstrap-custom-tpls-0.14.3.js",
+  "authors": [
+    "https://github.com/angular-ui/bootstrap/graphs/contributors"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular-ui",
+    "bootstrap",
+    "timepicker",
+    "typeahead"
+  ],
+  "homepage": "https://github.com/mcorrand/bootstrap",
+  "private": true,
+  "dependencies": {
+    "angular": ">=1.3.0"
+  },
+  "version": "0.14.3"
+}
